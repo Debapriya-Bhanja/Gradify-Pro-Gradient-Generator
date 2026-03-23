@@ -43,7 +43,7 @@ Perfect for **developers 🎯 and designers 🎨**
 ## 🌐 Live Demo
 
 <p align="center">
-  <a href="https://Debapriya-Bhanja.github.io/gradify/" target="_blank">
+  <a href="https://debapriya-bhanja.github.io/Gradify-Pro-Gradient-Generator/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Preview-Click%20Here-22c55e?style=for-the-badge&logo=google-chrome">
   </a>
 </p>
