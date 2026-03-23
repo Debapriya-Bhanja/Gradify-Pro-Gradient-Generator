@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gradify – Pro Gradient Generator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <!-- Header -->
+  <header>
+    <h1>🎨 Gradient Generator</h1>
+    <p>Create beautiful gradients instantly</p>
+  </header>
+
+  <!-- Preview Card -->
+  <div class="card preview-card">
+    <div id="preview"></div>
+  </div>
+
+  <!-- Controls -->
+  <div class="card controls">
+    
+    <div class="control">
+      <label>Color 1</label>
+      <input type="color" id="color1" value="#ff6b6b">
+    </div>
+
+    <div class="control">
+      <label>Color 2</label>
+      <input type="color" id="color2" value="#4ecdc4">
+    </div>
+
+    <div class="control">
+      <label>Angle</label>
+      <input type="range" id="angle" min="0" max="360" value="90">
+      <span id="angleValue">90°</span>
+    </div>
+
+  </div>
+
+  <!-- Output -->
+  <div class="card output">
+
+    <h3>Generated Code</h3>
+
+    <div class="code">
+      <input id="cssCode" readonly>
+      <button onclick="copy('cssCode')">Copy</button>
+    </div>
+
+    <div class="code">
+      <input id="hexCode" readonly>
+      <button onclick="copy('hexCode')">HEX</button>
+    </div>
+
+    <div class="code">
+      <input id="rgbCode" readonly>
+      <button onclick="copy('rgbCode')">RGB</button>
+    </div>
+
+    <div class="code">
+      <input id="hslCode" readonly>
+      <button onclick="copy('hslCode')">HSL</button>
+    </div>
+
+  </div>
+
+  <!-- Toast -->
+  <div id="toast">Copied!</div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
