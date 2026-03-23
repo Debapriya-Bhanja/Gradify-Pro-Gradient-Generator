@@ -1,21 +1,76 @@
-# Security Policy
+# 🔐 Security Policy
 
-## Supported Versions
+## 📌 Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The following versions of **Gradify** are currently supported with security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version        | Supported |
+| -------------- | --------- |
+| Latest         | ✅ Yes     |
+| Older Versions | ❌ No      |
 
-## Reporting a Vulnerability
+---
 
-Use this section to tell people how to report a vulnerability.
+## 🚨 Reporting a Vulnerability
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If you discover a security vulnerability, please report it responsibly.
+
+### 📩 How to Report
+
+* Open a **private issue** (if possible), or
+* Contact the maintainer directly
+
+📧 Email: **[debapriyabhanja18@gmail.com](mailto:debapriyabhanja18@gmail.com)**
+
+---
+
+## 🛡️ What to Include in Your Report
+
+Please provide:
+
+* Description of the vulnerability
+* Steps to reproduce
+* Possible impact
+* Screenshots or proof (if applicable)
+
+---
+
+## ⏱️ Response Time
+
+* Initial response within **48 hours**
+* Fix or update will be provided as soon as possible
+
+---
+
+## 🔒 Security Best Practices
+
+While using this project:
+
+* Always use the latest version
+* Do not include sensitive data in the app
+* Avoid modifying core logic without testing
+
+---
+
+## ⚠️ Scope
+
+This project is a **frontend-only tool**, so:
+
+* No user data is stored
+* No backend or database is involved
+* Minimal security risk
+
+However, UI or script vulnerabilities will still be addressed.
+
+---
+
+## 🙏 Responsible Disclosure
+
+Please do **not publicly disclose vulnerabilities** until they are fixed.
+We appreciate your cooperation in keeping the project secure.
+
+---
+
+<p align="center">
+  🔐 Security matters. Thank you for helping improve Gradify!
+</p>
