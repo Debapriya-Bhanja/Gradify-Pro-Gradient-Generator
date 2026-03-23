@@ -2,8 +2,6 @@
 A modern and powerful linear gradient generator with real-time preview, multiple color formats (HEX, RGB, HSL), and one-click copy functionality. Designed with a clean UI for developers and designers.
 
 
-# 🎨 Gradify – Pro Gradient Generator
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFAA&center=true&vCenter=true&width=500&lines=Create+Beautiful+Gradients;Live+Preview+%7C+Copy+Code;HEX+RGB+HSL+Supported" />
 </p>
