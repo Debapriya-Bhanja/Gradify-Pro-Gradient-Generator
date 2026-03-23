@@ -77,7 +77,7 @@ Gradify/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gradify.git
+git clone https://github.com/Debapriya-Bhanja/Gradify-Pro-Gradient-Generator.git
 ```
 
 ### 2️⃣ Open the Project
