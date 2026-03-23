@@ -14,7 +14,7 @@ Click the **Fork** button at the top right of this repo.
 ### 2️⃣ Clone Your Fork
 
 ```bash
-git clone https://github.com/Debapriya-Bhanja/gradify.git
+https://github.com/Debapriya-Bhanja/Gradify-Pro-Gradient-Generator.git
 cd gradify
 ```
 
